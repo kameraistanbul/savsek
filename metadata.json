@@ -1,5 +1,0 @@
-{
-  "name": "Employee Leave Calendar",
-  "description": "An interactive calendar to view employee leave schedules and public holidays for the year 2025. It helps in tracking who is on leave on any given day, based on the provided leave data. It also highlights official Turkish public holidays.",
-  "requestFramePermissions": []
-}
